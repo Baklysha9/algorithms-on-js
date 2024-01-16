@@ -1,2 +1,5 @@
-# algorithms-on-js
-Basic algorithms on JS
+# Algorithms on JS
+
+Basic algorithms on JS:
+- linear search
+- binary search
